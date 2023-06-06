@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1024972259250-83gpm1bm1eudt4aa4rm4t1vorsc2uvff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testing_firebase_notif",
+            "certificate_hash": "129f8a4e2af4eba558f31a17417aa17fec84e3e6"
+          }
+        },
+        {
           "client_id": "1024972259250-q4epcutvnf3tfrd50s65m9gj5rjkgodj.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "1024972259250-q4epcutvnf3tfrd50s65m9gj5rjkgodj.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1024972259250-4nr0onvav2fi9far0td5ot2crm6q42na.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testingFirebaseNotif"
+              }
             }
           ]
         }
